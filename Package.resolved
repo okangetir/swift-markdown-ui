@@ -12,10 +12,10 @@
     {
       "identity" : "swift-cmark",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/swiftlang/swift-cmark",
+      "location" : "git@github.com:okangetir/swift-cmark.git",
       "state" : {
-        "revision" : "5d9bdaa4228b381639fff09403e39a04926e2dbe",
-        "version" : "0.7.1"
+        "branch" : "gfm",
+        "revision" : "d9427891ffd1cf92f2444761ea7bfebcbfa83017"
       }
     },
     {
