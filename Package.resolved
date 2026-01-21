@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "git@github.com:okangetir/swift-cmark.git",
       "state" : {
-        "branch" : "gfm",
-        "revision" : "d9427891ffd1cf92f2444761ea7bfebcbfa83017"
+        "revision" : "d9427891ffd1cf92f2444761ea7bfebcbfa83017",
+        "version" : "1.0.0"
       }
     },
     {
